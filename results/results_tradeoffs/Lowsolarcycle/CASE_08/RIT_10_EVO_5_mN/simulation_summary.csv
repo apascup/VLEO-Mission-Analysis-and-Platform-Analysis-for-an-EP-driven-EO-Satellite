@@ -1,0 +1,23 @@
+case_name,CASE_08
+case_title,MOOG Meteorite with SAR-C (external 1200 Wh EPS)
+platform_id,PLT-042
+payload_id,PAY-015
+battery_id,BAT-022
+solar_array_id,SOL-019
+feasibility_status,Feasible: No
+mission_feasibility_status,Failed - Simulation Exception
+failed_checks,Payload active power (250.0 W) exceeds platform avg payload power (150.0 W); Payload peak power (4000.0 W) exceeds platform peak payload power (2000.0 W); Payload peak power (4000.0 W) exceeds battery max continuous power (2073.6 W)
+missing_parameters,platform.battery_capacity_included_wh; platform.solar_array_power_included_w; platform.payload_volume_l; payload.envelope_volume_l; payload.readout_power_w; payload.pointing_requirements_deg; battery.max_charge_power_w
+total_dry_mass_kg,336.5
+initial_wet_mass_kg,366.5
+final_spacecraft_mass_kg,366.34446644287704
+propellant_consumed_kg,0.15553355711631764
+remaining_propellant_kg,29.84446644288359
+total_thruster_operating_time_s,579600.0
+total_thruster_cycles,1
+simulated_thruster_duty_cycle_pct,20.64102564102564
+minimum_altitude_km,119.00546989798121
+maximum_altitude_km,273.6005604797193
+mean_altitude_km,236.07115213174166
+minimum_battery_soc,1.0
+termination_reason,Simulation Exception

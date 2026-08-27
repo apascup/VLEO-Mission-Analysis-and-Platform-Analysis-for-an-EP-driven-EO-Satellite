@@ -1,0 +1,20 @@
+{
+    "case_name": "CASE_01",
+    "missing_parameters": [
+        "platform.peak_payload_power_w",
+        "platform.battery_capacity_included_wh",
+        "platform.solar_array_power_included_w",
+        "platform.pointing_accuracy_deg",
+        "payload.readout_power_w",
+        "payload.peak_power_w",
+        "payload.pointing_requirements_deg",
+        "battery.mass_per_module_kg",
+        "battery.total_mass_kg",
+        "battery.voltage_v",
+        "battery.max_discharge_power_w",
+        "battery.max_continuous_power_w",
+        "battery.max_charge_power_w"
+    ],
+    "failed_checks": [],
+    "feasible_preliminary": true
+}

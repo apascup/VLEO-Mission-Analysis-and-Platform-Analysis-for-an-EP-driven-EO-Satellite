@@ -1,0 +1,23 @@
+case_name,CASE_02
+case_title,SSTL-MICRO with MultiScape200 (external 400 Wh EPS)
+platform_id,PLT-017
+payload_id,PAY-005
+battery_id,BAT-020
+solar_array_id,SOL-017
+feasibility_status,Feasible: No
+mission_feasibility_status,Failed - Simulation Exception
+failed_checks,None
+missing_parameters,platform.battery_capacity_included_wh; platform.solar_array_power_included_w; platform.pointing_accuracy_deg; payload.readout_power_w; payload.peak_power_w; payload.pointing_requirements_deg; battery.max_charge_power_w
+total_dry_mass_kg,55.06
+initial_wet_mass_kg,65.06
+final_spacecraft_mass_kg,65.03740679677936
+propellant_consumed_kg,0.022593203220643083
+remaining_propellant_kg,9.977406796787193
+total_thruster_operating_time_s,1462320.0
+total_thruster_cycles,1
+simulated_thruster_duty_cycle_pct,31.523398090902038
+minimum_altitude_km,13.015812111282155
+maximum_altitude_km,334.8199659838914
+mean_altitude_km,285.57268923642465
+minimum_battery_soc,1.0
+termination_reason,Simulation Exception

@@ -1,0 +1,15 @@
+{
+    "case_name": "CASE_06",
+    "missing_parameters": [
+        "payload.envelope_volume_l",
+        "payload.peak_power_w",
+        "payload.pointing_requirements_deg",
+        "battery.mass_per_module_kg",
+        "battery.total_mass_kg",
+        "battery.max_charge_power_w",
+        "solar_array.mass_per_unit_kg",
+        "solar_array.total_mass_kg"
+    ],
+    "failed_checks": [],
+    "feasible_preliminary": true
+}

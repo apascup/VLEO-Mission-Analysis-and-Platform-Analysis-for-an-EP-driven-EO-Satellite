@@ -1,0 +1,23 @@
+case_name,CASE_03
+case_title,SSTL-MICRO with DragonEye (external 800 Wh EPS)
+platform_id,PLT-017
+payload_id,PAY-011
+battery_id,BAT-021
+solar_array_id,SOL-018
+feasibility_status,Feasible: No
+mission_feasibility_status,Failed - Simulation Exception
+failed_checks,None
+missing_parameters,platform.battery_capacity_included_wh; platform.solar_array_power_included_w; platform.pointing_accuracy_deg; payload.envelope_volume_l; payload.peak_power_w; payload.pointing_requirements_deg; battery.max_charge_power_w
+total_dry_mass_kg,68.06
+initial_wet_mass_kg,83.06
+final_spacecraft_mass_kg,83.03971042840595
+propellant_consumed_kg,0.02028957159404833
+remaining_propellant_kg,14.979710428412986
+total_thruster_operating_time_s,1313220.0
+total_thruster_cycles,1
+simulated_thruster_duty_cycle_pct,32.07685430803277
+minimum_altitude_km,42.67216135965057
+maximum_altitude_km,334.819365056446
+mean_altitude_km,285.7804615793515
+minimum_battery_soc,1.0
+termination_reason,Simulation Exception

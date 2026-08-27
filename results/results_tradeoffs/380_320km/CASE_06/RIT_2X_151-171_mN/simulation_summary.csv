@@ -1,0 +1,23 @@
+case_name,CASE_06
+case_title,The Frame with Raptor (integrated 1100 Wh EPS)
+platform_id,PLT-033
+payload_id,PAY-012
+battery_id,Integrated
+solar_array_id,Integrated
+feasibility_status,Feasible: No
+mission_feasibility_status,Failed - Battery SoC dropped below min limit (73.0%) during cycle execution
+failed_checks,Battery SoC dropped below min limit (73.0%) during cycle execution
+missing_parameters,payload.envelope_volume_l; payload.peak_power_w; payload.pointing_requirements_deg; battery.mass_per_module_kg; battery.total_mass_kg; battery.max_charge_power_w; solar_array.mass_per_unit_kg; solar_array.total_mass_kg
+total_dry_mass_kg,180.0
+initial_wet_mass_kg,200.0
+final_spacecraft_mass_kg,199.18299137349882
+propellant_consumed_kg,0.8170086264992452
+remaining_propellant_kg,19.182991373500823
+total_thruster_operating_time_s,169200.0
+total_thruster_cycles,47
+simulated_thruster_duty_cycle_pct,0.4195085756685026
+minimum_altitude_km,319.18325804019145
+maximum_altitude_km,406.15314761060864
+mean_altitude_km,356.76682577323515
+minimum_battery_soc,0.0
+termination_reason,End of Simulation

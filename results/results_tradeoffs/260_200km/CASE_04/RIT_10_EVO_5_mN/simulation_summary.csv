@@ -1,0 +1,23 @@
+case_name,CASE_04
+case_title,The Frame with HyperScape100 (integrated 1100 Wh EPS)
+platform_id,PLT-033
+payload_id,PAY-003
+battery_id,Integrated
+solar_array_id,Integrated
+feasibility_status,Feasible: No
+mission_feasibility_status,Failed - Simulation Exception
+failed_checks,None
+missing_parameters,payload.readout_power_w; payload.peak_power_w; payload.pointing_requirements_deg; battery.mass_per_module_kg; battery.total_mass_kg; battery.max_charge_power_w; solar_array.mass_per_unit_kg; solar_array.total_mass_kg
+total_dry_mass_kg,113.06
+initial_wet_mass_kg,128.06
+final_spacecraft_mass_kg,127.98754647960644
+propellant_consumed_kg,0.07245352039580015
+remaining_propellant_kg,14.927546479604157
+total_thruster_operating_time_s,270000.0
+total_thruster_cycles,1
+simulated_thruster_duty_cycle_pct,23.510971786833856
+minimum_altitude_km,122.7064894868146
+maximum_altitude_km,271.2884955554773
+mean_altitude_km,231.6404954975744
+minimum_battery_soc,0.8126555023923445
+termination_reason,Simulation Exception

@@ -1,0 +1,23 @@
+case_name,CASE_01
+case_title,16U CubeSat with HyperScape100
+platform_id,PLT-007
+payload_id,PAY-003
+battery_id,BAT-017
+solar_array_id,SOL-015
+feasibility_status,Feasible: No
+mission_feasibility_status,Failed - Simulation Exception
+failed_checks,Battery SoC dropped below min limit (70.0%) during cycle execution
+missing_parameters,platform.peak_payload_power_w; platform.battery_capacity_included_wh; platform.solar_array_power_included_w; platform.pointing_accuracy_deg; payload.readout_power_w; payload.peak_power_w; payload.pointing_requirements_deg; battery.mass_per_module_kg; battery.total_mass_kg; battery.voltage_v; battery.max_discharge_power_w; battery.max_continuous_power_w; battery.max_charge_power_w
+total_dry_mass_kg,18.245
+initial_wet_mass_kg,23.245
+final_spacecraft_mass_kg,23.221138640616296
+propellant_consumed_kg,0.02386135938368352
+remaining_propellant_kg,4.976138640616316
+total_thruster_operating_time_s,46800.0
+total_thruster_cycles,13
+simulated_thruster_duty_cycle_pct,33.5
+minimum_altitude_km,130.71889459207392
+maximum_altitude_km,399.35513058843463
+mean_altitude_km,339.81411120396916
+minimum_battery_soc,0.0
+termination_reason,Simulation Exception

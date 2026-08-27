@@ -1,0 +1,23 @@
+case_name,CASE_06
+case_title,The Frame with Raptor (integrated 1100 Wh EPS)
+platform_id,PLT-033
+payload_id,PAY-012
+battery_id,Integrated
+solar_array_id,Integrated
+feasibility_status,Feasible: No
+mission_feasibility_status,Failed - Simulation Exception
+failed_checks,None
+missing_parameters,payload.envelope_volume_l; payload.peak_power_w; payload.pointing_requirements_deg; battery.mass_per_module_kg; battery.total_mass_kg; battery.max_charge_power_w; solar_array.mass_per_unit_kg; solar_array.total_mass_kg
+total_dry_mass_kg,170.44
+initial_wet_mass_kg,190.44
+final_spacecraft_mass_kg,189.79073741694037
+propellant_consumed_kg,0.6492625829505204
+remaining_propellant_kg,19.350737417067148
+total_thruster_operating_time_s,42022800.0
+total_thruster_cycles,1
+simulated_thruster_duty_cycle_pct,43.860374239122265
+minimum_altitude_km,105.21225136798263
+maximum_altitude_km,411.0256800164465
+mean_altitude_km,345.1296556723012
+minimum_battery_soc,0.9
+termination_reason,Simulation Exception

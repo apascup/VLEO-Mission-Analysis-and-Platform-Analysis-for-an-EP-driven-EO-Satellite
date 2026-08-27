@@ -1,0 +1,18 @@
+# Core Orbital Mechanics & Simulation
+orekit_jpype>=13.0
+JPype1>=1.5.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data Processing & Analysis
+pandas>=2.0.0
+
+# Visualization & Plotting
+matplotlib>=3.7.0
+mplcursors>=0.5.0
+plotly>=5.15.0
+pillow>=9.5.0
+
+# Reporting & Utilities
+Jinja2>=3.1.0
+requests>=2.30.0

@@ -1,0 +1,23 @@
+case_name,CASE_05
+case_title,The Frame with MultiScape200 (integrated 1100 Wh EPS)
+platform_id,PLT-033
+payload_id,PAY-005
+battery_id,Integrated
+solar_array_id,Integrated
+feasibility_status,Feasible: No
+mission_feasibility_status,Failed - Simulation Exception
+failed_checks,None
+missing_parameters,payload.readout_power_w; payload.peak_power_w; payload.pointing_requirements_deg; battery.mass_per_module_kg; battery.total_mass_kg; battery.max_charge_power_w; solar_array.mass_per_unit_kg; solar_array.total_mass_kg
+total_dry_mass_kg,124.11
+initial_wet_mass_kg,144.11
+final_spacecraft_mass_kg,144.04430880817637
+propellant_consumed_kg,0.06569119182552544
+remaining_propellant_kg,19.934308808174436
+total_thruster_operating_time_s,244800.0
+total_thruster_cycles,1
+simulated_thruster_duty_cycle_pct,19.318181818181817
+minimum_altitude_km,132.1289916044615
+maximum_altitude_km,271.63928011839016
+mean_altitude_km,232.148933173976
+minimum_battery_soc,0.8127272727272727
+termination_reason,Simulation Exception
